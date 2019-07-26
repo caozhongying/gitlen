@@ -6,3 +6,4 @@ other modify
 different
 file>..." to discard changes in worki
 welcome to caozhongying github
+Creating a new branch is quick.
