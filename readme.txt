@@ -8,3 +8,4 @@ file>..." to discard changes in worki
 welcome to caozhongying github
 this is mastre branch
 Creating a new branch is quick.
+git add merge
