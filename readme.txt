@@ -11,3 +11,4 @@ Creating a new branch is quick.
 git add merge
 insert in dev
 insert fea
+inseeert master
