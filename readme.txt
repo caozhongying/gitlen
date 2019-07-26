@@ -9,25 +9,5 @@ welcome to caozhongying github
 this is mastre branch
 Creating a new branch is quick.
 git add merge
-<<<<<<< HEAD
-<<<<<<< HEAD
-insert in dev
-insert fea
-inseeert master
-mastre
-cai branch
 
-=======
->>>>>>> cai
-=======
-
-cai
-<<<<<<< HEAD
->>>>>>> cai
-=======
-1
-<<<<<<< HEAD
->>>>>>> cai
-=======
-jsjhd
->>>>>>> cai
+shdgdhf
