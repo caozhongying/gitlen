@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 other modify
 different
+file>..." to discard changes in worki
